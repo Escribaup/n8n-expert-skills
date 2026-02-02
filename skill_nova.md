@@ -21,6 +21,10 @@ Nosso foco é a segurança jurídica e a otimização fiscal preventiva. Nunca p
 
 teste de alterações
 
+## 6. alterações
+
+Outra alteração
+
 ---
 *ID de Referência: SKILL-IDVL-001*
 *Versão: 1.0*
